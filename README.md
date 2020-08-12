@@ -1,1 +1,5 @@
-# GitTest12.08
+# GitKurs
+## 12.08
+### Utforske
+Dette er **mega** lame...
+
